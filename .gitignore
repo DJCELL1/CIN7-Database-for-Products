@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+products.db
+last_sync.txt
+__pycache__/
+*.pyc
+*.log
